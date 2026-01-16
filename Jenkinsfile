@@ -29,6 +29,6 @@ success {
 echo 'CI pipeline passed'
 }
 failure {
-echo 'CI pipeline failed" }}}
+echo 'CI pipeline failed' }}}
 
 
